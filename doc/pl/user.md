@@ -1,4 +1,4 @@
-# Zgoda Użytkownika
+# Zgoda użytkownika
 
 Po zarejestrowaniu tej witryny uważa się, że zrozumiałeś i w pełni zgadzasz się z niniejszą Umową (oraz aktualizacją i modyfikacją umowy użytkownika na tej stronie w przyszłości).
 
@@ -25,7 +25,7 @@ Po zakończeniu procesu rejestracji niniejszej usługi i pomyślnym zarejestrowa
 
 Powinieneś być odpowiedzialny za wszystkie zachowania konta.
 
-## Zmiana Usługi
+## Zmiana usługi
 
 Ta strona może zmienić treść usługi lub może zostać przerwana i zakończona.
 
@@ -35,7 +35,7 @@ Ta strona internetowa zostanie od czasu do czasu zaktualizowana i utrzymywana, c
 
 Ta strona ma prawo przerwać lub zakończyć usługę w dowolnym momencie, usunąć swoje konto i treści bez konieczności przyjmowania odpowiedzialności za Ciebie lub jakiejkolwiek strony trzeciej.
 
-## Zachowanie Użytkownika
+## Zachowanie użytkownika
 
 Jeśli twoje zachowanie narusza przepisy krajowe, będziesz ponosić wszelkie obowiązki prawne zgodnie z prawem; ta strona internetowa będzie współpracować w ścisłej zgodności z obowiązkami określonymi w prawie i wymogami narządów sądowych.
 
@@ -68,7 +68,7 @@ Zgadzasz się, że ta usługa nie będzie korzystać z tej usługi do żadnych n
 
 Ta strona ma prawo usunąć treść, która narusza niniejsze Warunki.
 
-## Zbierz Wiadomość
+## Zbierz wiadomość
 
 Aby świadczyć usługi, zbieramy Twoje dane osobowe i udostępnimy niektóre dane osobowe osobom trzecim.
 

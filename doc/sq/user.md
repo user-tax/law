@@ -1,4 +1,4 @@
-# Marrëveshja E Përdoruesit
+# Marrëveshja e Përdoruesit
 
 Pasi të jetë regjistruar kjo faqe në internet, konsiderohet se ju keni kuptuar dhe plotësisht dakord me këtë Marrëveshje (dhe azhurnimin dhe modifikimin e Marrëveshjes së Përdoruesit në këtë Uebfaqe në të ardhmen).
 
@@ -19,13 +19,13 @@ Ju e kuptoni qartë dhe pranoni që bazuar në arsyet e mëposhtme, duke përfsh
 1. Deklarata ose sjellja e bërë nga ndonjë palë e tretë në këtë shërbim
 1. Palët e treta publikojnë ose paraqesin informacione për mashtrim në çfarëdo mënyre, ose nxisin përdoruesit të pësojnë humbje ekonomike
 
-## Siguria E Llogarisë
+## Siguria e Llogarisë
 
 Pas përfundimit të procesit të regjistrimit të këtij shërbimi dhe regjistrimit me sukses, mbrojtja e sigurisë së llogarisë është përgjegjësia juaj.
 
 Ju duhet të jeni përgjegjës për të gjithë sjelljen e llogarisë tuaj.
 
-## Ndryshimi I Shërbimit
+## Ndryshimi i Shërbimit
 
 Kjo faqe në internet mund të ndryshojë përmbajtjen e shërbimit, ose mund të ndërpritet dhe përfundojë.
 
@@ -35,7 +35,7 @@ Kjo faqe në internet do të azhurnohet dhe mirëmbahet herë pas here, gjë që
 
 Kjo faqe në internet ka të drejtë të ndërpresë ose përfundojë shërbimin për ju në çdo kohë, të fshini llogarinë dhe përmbajtjen tuaj pa pasur nevojë të merrni përgjegjësi për ju ose ndonjë palë të tretë.
 
-## Sjellja E Përdoruesit
+## Sjellja e Përdoruesit
 
 Nëse sjellja juaj shkel ligjet kombëtare, ju do të mbani të gjitha përgjegjësitë ligjore sipas ligjit; kjo faqe interneti do të bashkëpunojë në përputhje të rreptë me detyrimet e përcaktuara në ligj dhe kërkesat e organeve gjyqësore.
 
@@ -68,7 +68,7 @@ Ju pranoni që ky shërbim nuk do ta përdorë këtë shërbim për ndonjë vepr
 
 Kjo faqe në internet ka të drejtë të fshijë përmbajtjen që shkel këto kushte.
 
-## Mblidhni Mesazh
+## Mblidhni mesazh
 
 Për të ofruar shërbime, ne do të mbledhim informacionin tuaj personal dhe do të ndajmë disa nga informacionet tuaja personale me një palë të tretë.
 

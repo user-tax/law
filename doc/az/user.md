@@ -19,13 +19,13 @@ Aşağıdakı səbəblərə görə, o cümlədən iqtisadiyyat, nüfuz, məlumat
 1. Bu xidmətdə hər hansı bir üçüncü tərəfin etdiyi ifadə və ya davranış
 1. Üçüncü tərəflər hər hansı bir şəkildə fırıldaqçılıq məlumatlarını dərc edir və ya təqdim edir və ya istifadəçilərə iqtisadi itkilərə uğrayırlar
 
-## Hesab Təhlükəsizliyi
+## hesab təhlükəsizliyi
 
 Bu xidmətin qeydiyyatı prosesini başa vurduqdan və uğurla qeydiyyatdan keçdikdən sonra hesab təhlükəsizliyinizi qorumaq sizin məsuliyyətinizdir.
 
 Bütün hesabınızın davranışlarına görə cavabdeh olmalısınız.
 
-## Xidmət Dəyişikliyi
+## Xidmət dəyişikliyi
 
 Bu veb sayt xidmət məzmununu dəyişdirə bilər və ya kəsil və dayandırıla bilər.
 
@@ -35,7 +35,7 @@ Bu veb saytın müddəti kəsiləcək və bu veb saytın kəsilməsinə səbəb 
 
 Bu veb saytın istənilən vaxt sizə xidmət etmək və ya ləğv etmək, hesabınızı və məzmununuzu sizin və ya üçüncü tərəf üçün məsuliyyət daşımamaq üçün silmək hüququ var.
 
-## İstifadəçi Davranışı
+## İstifadəçi davranışı
 
 Davranışınız milli qanunları pozursa, bütün qanuni məsuliyyətləri qanuna görə ödəyəcəksiniz; Bu veb sayt qanunda nəzərdə tutulmuş öhdəliklərə və məhkəmə orqanlarının tələblərinə görə ciddi şəkildə əməkdaşlıq edəcəkdir.
 
@@ -68,7 +68,7 @@ Bu xidmətin bu xidmətin bu xidmətdən bu xidmətdən istifadə etməyəcəyin
 
 Bu veb sayt bu şərtləri pozan məzmunu silmək hüququna malikdir.
 
-## Mesaj Toplamaq
+## Mesaj toplamaq
 
 Xidmətləri təmin etmək üçün şəxsi məlumatlarınızı toplayacağıq və şəxsi məlumatlarınızı üçüncü tərəflə bölüşəcəyik.
 

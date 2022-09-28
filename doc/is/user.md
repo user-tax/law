@@ -25,7 +25,7 @@ Eftir að skráningarferli þessarar þjónustu hefur verið lokið og með gó�
 
 Þú ættir að vera ábyrgur fyrir allri reikningshegðun þinni.
 
-## Þjónustubreyting
+## þjónustubreyting
 
 Þessi vefsíða getur breytt þjónustu innihaldi, eða það getur verið rofið og sagt upp.
 
@@ -35,7 +35,7 @@ Með hliðsjón af sérstöðu netþjónustu (þar með talið en ekki takmarka�
 
 Þessi vefsíða hefur rétt til að trufla eða segja upp þjónustunni til þín hvenær sem er, eyða reikningi þínum og efni án þess að þurfa að taka ábyrgð á þér eða einhverjum þriðja aðila.
 
-## Hegðun Notenda
+## Hegðun notenda
 
 Ef hegðun þín brýtur í bága við landslög, muntu bera allar lagalegar skyldur samkvæmt lögum; þessi vefsíða mun vinna í ströngum í samræmi við skyldurnar sem mælt er fyrir um í lögum og kröfum dómlíffæra.
 
@@ -68,7 +68,7 @@ Ef þessi vefsíða telur einhverja hegðun á hegðun þinni, brýtur í bága 
 
 Þessi vefsíða hefur rétt til að eyða efninu sem brýtur í bága við þessa skilmála.
 
-## Safnaðu Skilaboðum
+## Safnaðu skilaboðum
 
 Til að veita þjónustu munum við safna persónulegum upplýsingum þínum og deila nokkrum af persónulegum upplýsingum þínum með þriðja aðila.
 

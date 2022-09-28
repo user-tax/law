@@ -1,4 +1,4 @@
-# Erabiltzailearen Hitzarmena
+# Erabiltzailearen akordioa
 
 Webgune hau erregistratuta dagoenean, hitzarmen honekin ulertu eta guztiz adostu duzula uste da (eta etorkizunean webgune honetako erabiltzailearen hitzarmena eguneratzea eta aldatzea).
 
@@ -19,13 +19,13 @@ Argi eta garbi ulertzen eta ados zaude horrelako arrazoietan oinarrituta, baina 
 1. Zerbitzu honetan edozein hirugarrenek egindako adierazpena edo portaera
 1. Hirugarrenek iruzur informazioa edozein modutan argitaratzen edo bidaltzen dute edo erabiltzaileek galera ekonomikoak jasaten dituzte
 
-## Kontuaren Segurtasuna
+## kontuaren segurtasuna
 
 Zerbitzu honen erregistro prozesua amaitu ondoren eta arrakastaz erregistratzea, kontua babestea zure erantzukizuna da.
 
 Zure kontuaren portaera guztien erantzule izan beharko zenuke.
 
-## Zerbitzuaren Aldaketa
+## Zerbitzuaren aldaketa
 
 Webgune honek zerbitzuaren edukia alda dezake, edo eten eta amaitu daiteke.
 
@@ -35,7 +35,7 @@ Webgune hau noizean behin berritu eta mantenduko da, eta horrek zerbitzua eten e
 
 Webgune honek zerbitzua edozein unetan eten edo amaitzeko eskubidea du, zure kontua eta edukia ezabatu zuretzako edo hirugarrenen erantzukizunik hartu beharrik izan gabe.
 
-## Erabiltzailearen Portaera
+## erabiltzailearen portaera
 
 Zure jokabideak lege nazionalak urratzen baditu, legearen arabera legezko erantzukizun guztiak izango dituzu; webgune honek lankidetzan arituko da legearen arabera araututako betebeharrekin eta organo judizialen eskakizunen arabera.
 
@@ -68,7 +68,7 @@ Ados zaude zerbitzu honek ez duela zerbitzu hau erabiliko legez kanpoko edo oker
 
 Webgune honek eskubidea du baldintza hauek urratzen dituen edukia ezabatzeko.
 
-## Bildu Mezua
+## Bildu mezua
 
 Zerbitzuak eskaintzeko, zure informazio pertsonala bilduko dugu eta zure informazio pertsonala hirugarren batekin partekatu.
 
