@@ -1,4 +1,4 @@
-# Kasunduan Ng Gumagamit
+# Kasunduan ng Gumagamit
 
 Kapag nakarehistro ang website na ito, itinuturing na naintindihan mo at ganap na sumasang -ayon sa Kasunduang ito (at ang pag -update at pagbabago ng kasunduan ng gumagamit sa website na ito sa hinaharap).
 
@@ -19,13 +19,13 @@ Malinaw mong nauunawaan at sumasang -ayon na batay sa mga sumusunod na kadahilan
 1. Pahayag o pag -uugali na ginawa ng anumang ikatlong partido sa serbisyong ito
 1. Ang mga ikatlong partido ay naglalathala o magsumite ng impormasyon sa pandaraya sa anumang paraan, o pukawin ang mga gumagamit na magdusa ng mga pagkalugi sa ekonomiya
 
-## Seguridad Ng Account
+## Seguridad ng Account
 
 Matapos makumpleto ang proseso ng pagpaparehistro ng serbisyong ito at matagumpay na nagrehistro, ang pagprotekta sa seguridad ng account ay ang iyong responsibilidad.
 
 Dapat kang maging responsable para sa lahat ng iyong pag -uugali sa account.
 
-## Pagbabago Ng Serbisyo
+## Pagbabago ng Serbisyo
 
 Maaaring baguhin ng website na ito ang nilalaman ng serbisyo, o maaaring magambala at wakasan.
 
@@ -35,7 +35,7 @@ Ang website na ito ay maa -upgrade at mapanatili paminsan -minsan, na magiging s
 
 Ang website na ito ay may karapatang makagambala o wakasan ang Serbisyo sa iyo anumang oras, tanggalin ang iyong account at nilalaman nang hindi kinakailangang responsibilidad para sa iyo o sa anumang ikatlong partido.
 
-## Pag -uugali Ng Gumagamit
+## Pag -uugali ng Gumagamit
 
 Kung ang iyong pag -uugali ay lumalabag sa mga pambansang batas, dadalhin mo ang lahat ng mga ligal na responsibilidad ayon sa batas; ang website na ito ay makikipagtulungan nang mahigpit na naaayon sa mga obligasyong itinakda sa batas at ang mga kinakailangan ng mga hudisyal na organo.
 
@@ -68,7 +68,7 @@ Sumasang -ayon ka na ang serbisyong ito ay hindi gagamitin ang serbisyong ito pa
 
 Ang website na ito ay may karapatang tanggalin ang nilalaman na lumalabag sa mga term na ito.
 
-## Kolektahin Ang Mensahe
+## Kolektahin ang mensahe
 
 Upang magbigay ng mga serbisyo, makokolekta namin ang iyong personal na impormasyon at ibabahagi ang ilan sa iyong personal na impormasyon sa isang ikatlong partido.
 
