@@ -68,7 +68,7 @@ Sie erklären sich damit einverstanden, dass dieser Service diesen Service nicht
 
 Diese Website hat das Recht, den Inhalt zu löschen, der gegen diese Begriffe verstößt.
 
-## Meldung Sammeln
+## Meldung sammeln
 
 Um Dienstleistungen anzubieten, werden wir Ihre persönlichen Daten sammeln und einige Ihrer persönlichen Daten an einen Dritten teilen.
 
