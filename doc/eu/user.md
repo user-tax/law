@@ -1,4 +1,4 @@
-# Erabiltzailearen akordioa
+# Erabiltzailearen hitzarmena
 
 Webgune hau erregistratuta dagoenean, hitzarmen honekin ulertu eta guztiz adostu duzula uste da (eta etorkizunean webgune honetako erabiltzailearen hitzarmena eguneratzea eta aldatzea).
 
