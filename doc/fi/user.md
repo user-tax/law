@@ -19,7 +19,7 @@ Ymmärrät selkeästi ja hyväksyt, että seuraavien syiden perusteella, mukaan 
 1. Tämän palvelun kolmannen osapuolen lausunto tai käyttäytyminen
 1. Kolmannet osapuolet julkaisevat tai toimittavat petoksia millään tavalla tai saavat käyttäjät kärsimään taloudellisia tappioita
 
-## tilin turvallisuus
+## Tilin Turvallisuus
 
 Tämän palvelun rekisteröintiprosessin suorittamisen jälkeen ja rekisteröinnin onnistuneesti tilin suojaaminen on sinun vastuullasi.
 
@@ -35,7 +35,7 @@ Tätä verkkosivustoa päivitetään ja ylläpidetään ajoittain, mikä aiheutt
 
 Tällä verkkosivustolla on oikeus keskeyttää tai lopettaa palvelu sinulle milloin tahansa, poistaa tilisi ja sisältösi tarvitsematta ottaa vastuuta sinusta tai mistä tahansa kolmannesta osapuolesta.
 
-## Käyttäjän käyttäytyminen
+## Käyttäjän Käyttäytyminen
 
 Jos käyttäytymisesi rikkoo kansallisia lakeja, sinulla on kaikki lain mukaiset oikeudelliset vastuut; tämä verkkosivusto tekee yhteistyötä tiukasti laissa asetettujen velvoitteiden ja oikeuselinten vaatimusten mukaisesti.
 
@@ -68,7 +68,7 @@ Hyväksyt, että tämä palvelu ei käytä tätä palvelua mihinkään laittomaa
 
 Tällä verkkosivustolla on oikeus poistaa sisältö, joka rikkoo näitä ehtoja.
 
-## Kerää viestiä
+## Kerää Viestiä
 
 Palvelujen tarjoamiseksi keräämme henkilökohtaisia ​​tietojasi ja jaamme joitain henkilökohtaisia ​​tietojasi kolmannen osapuolen kanssa.
 

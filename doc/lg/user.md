@@ -72,4 +72,4 @@ Omukutu guno gulina eddembe okusazaamu ebirimu ebimenya ebiragiro bino.
 
 Okusobola okuwa obuweereza, tujja kukungaanya ebikwata ku bantu bo era tugabana ebimu ku bikwata ku bantu bo n’omuntu ow’okusatu.
 
-Tujja kuwa omuntu owookusatu ebikwata ku muntu wo mu kigendererwa ekyetaagisa n’obuwanvu obwetaagisa, era twekenneenya n’okulondoola n’obwegendereza obusobozi bw’okuwagira eby’okwerinda kw’omuntu ow’okusatu, tubasabe okugoberera amateeka n’ebiragiro, endagaano z’okukolagana, n’okukola eby’okwerinda ebikwatagana . Kuuma ebikwata ku bantu bo Essence .
+Tujja kuwa omuntu owookusatu ebikwata ku muntu wo mu kigendererwa ekyetaagisa n’obuwanvu obwetaagisa, era twekenneenya n’okulondoola n’obwegendereza obusobozi bw’okuwagira eby’okwerinda kw’omuntu ow’okusatu, tubasabe okugoberera amateeka n’ebiragiro, endagaano z’okukolagana, n’okukola eby’okwerinda ebikwatagana . Kuuma ebikwata ku bantu bo Essence

@@ -6,7 +6,7 @@ Bu Sözleşmenin şartları bu web sitesi tarafından herhangi bir zamanda deği
 
 Bu Sözleşmeyi kabul etmiyorsanız, bu web sitesini hemen kullanmayı bırakın.
 
-Henüz bir yetişkin değilseniz, bu sözleşmeyi Guardian'ın rehberliğinde okumalısınız ve koruyucunuzun bu Sözleşmeye rızasını aldıktan sonra bu web sitesini kullanmalısınız. Siz ve koruyucularınız yasaya ve bu anlaşmaya uygun olarak sorumluluk taşıyacaksınız.
+Henüz bir yetişkin değilseniz, bu sözleşmeyi Guardian'ın rehberliğinde okumalısınız ve koruyucunuzun bu anlaşmaya ilişkin rızasını aldıktan sonra bu web sitesini kullanmalısınız. Siz ve koruyucularınız yasaya ve bu anlaşmaya uygun olarak sorumluluk taşıyacaksınız.
 
 Küçük kullanıcıların koruyucusuysanız, lütfen bu Sözleşmeyi kabul edip etmeyeceğinizi dikkatlice seçin.
 

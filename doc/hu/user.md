@@ -4,9 +4,9 @@ Miután ezt a weboldalt regisztrálták, úgy ítélik meg, hogy megértette és
 
 A megállapodás feltételeit a weboldal bármikor módosíthatja. A módosított megállapodást az eredeti megállapodás váltja fel.
 
-Ha nem ért egyet ezzel a megállapodással, hagyja abba a webhelyet azonnal.
+Ha nem ért egyet ezzel a megállapodással, akkor azonnal hagyja abba a weboldal használatát.
 
-Ha még nem felnőtt, akkor olvassa el ezt a megállapodást a Guardian irányítása alatt, és használja ezt a weboldalt, miután megszerezte a Guardian hozzájárulását a megállapodáshoz. Ön és az őrei a törvénynek és a megállapodásnak megfelelően felelősséget vállalnak.
+Ha még nem felnőtt, akkor el kell olvasnia ezt a megállapodást a Guardian irányítása alatt, és használja ezt a weboldalt, miután megszerezte a Guardian hozzájárulását e megállapodáshoz. Ön és az őrei a törvénynek és a megállapodásnak megfelelően felelősséget vállalnak.
 
 Ha Ön a kisebb felhasználók őrzője, kérjük, olvassa el és gondosan válassza ki, hogy egyetért -e ezzel a megállapodással.
 

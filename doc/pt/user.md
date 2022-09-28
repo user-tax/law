@@ -6,7 +6,7 @@ Os termos deste Contrato podem ser modificados por este site a qualquer momento.
 
 Se você não concordar com este Contrato, pare de usar este site imediatamente.
 
-Se você ainda não é um adulto, leia este Contrato sob a orientação do Guardian e use este site depois de obter o consentimento do seu Guardian deste Contrato. Você e seus responsáveis ​​assumirão a responsabilidade de acordo com a lei e este Contrato.
+Se você ainda não é um adulto, deve ler este Contrato sob a orientação do Guardian e usar este site após obter o consentimento do seu Guardian deste Contrato. Você e seus responsáveis ​​assumirão a responsabilidade de acordo com a lei e este Contrato.
 
 Se você é o guardião de usuários menores, leia e escolha cuidadosamente se deve concordar com este Contrato.
 

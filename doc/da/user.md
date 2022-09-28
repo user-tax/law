@@ -68,7 +68,7 @@ Du accepterer, at denne service ikke vil bruge denne service til ulovlige eller 
 
 Dette websted har ret til at slette det indhold, der krænker disse betingelser.
 
-## indsamle besked
+## Indsamle Besked
 
 For at levere tjenester indsamler vi dine personlige oplysninger og deler nogle af dine personlige oplysninger med en tredjepart.
 

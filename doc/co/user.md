@@ -50,12 +50,12 @@ Hè d'accordu chì stu serviziu ùn hà micca aduprà stu serviziu per qualsiasi
    * Endorizà a sicurità naziunale, i sicreti di u Statu di fuga, subvert u putere statale, è distrughjenu l'unità di u paese
    * Dannu à l'onore naziunale è interessi
    * Inciteghja odiu, a discriminazione, è distrugge l'unità naziunale
-   * Distruisce e pulitiche religiose naziunali è prumove e culti è e superstizioni feudiale
+   * Distruisce e pulitiche religiose naziunali è prumove e culti è e superstizioni feudiali
    * Passione di rumuri, disrupting ordine suciale, è distrugge a stabilità sociale
    * Passendu da obscene, pornografia, ghjoculi, viulenza, l'assassiniu, horrore o inestabilità di crimine
    * Insultante o sgrana l'altri è violendu nantu à i diritti legittimi di l'altri
    * Contenta falza, frode, dannusu, sfringente, trasfurmazione, preghjudiziu, vulgari, obscenità, o altre molali
-   * Cuntene u cuntenutu di stu situ web chì ùn hè micca adattatu per vede in questu situ web
+   * Cuntene u cuntenutu di stu situ web chì ùn hè micca adattatu per vede in stu situ web
 
 1. In ogni modu per in periculu i diritti è interessi legittimi di l'altri
 1. Pretendenu esse qualsiasi altra persona o istituzione, o state o mentite in modu ipocriticu o si liganu cù qualcunu o istituzione

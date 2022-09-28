@@ -25,7 +25,7 @@ Ngemuva kokuqeda inqubo yokubhalisa yale nsizakalo futhi ubhalise ngempumelelo, 
 
 Kufanele ube nesibopho sakho konke ukusebenza kwe-akhawunti yakho.
 
-## Ukushintshwa Kwensiza
+## Ukushintshwa Kwensizakalo
 
 Le webhusayithi ingashintsha okuqukethwe kwensiza, noma kungaphazamiseka futhi kunqanyulwe.
 

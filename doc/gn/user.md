@@ -6,7 +6,7 @@ Umi mbaʼe heʼíva ko konvéniope ikatu oñemoambue ko sítiope oimeha óra.Pe 
 
 Ndereikóiramo de akuérdo ko konvénio ndive, anivéma reiporu ko sítio pyaʼe porã.
 
-Nde ndaha’éiramo gueteri peteĩ kakuaáva, remoñe’ẽva’erã ko ñe’ẽme’ẽ Guardian ñesãmbyhy rupive, ha eipuru ko página web rehupyty rire ne Guardián omoneĩha ko ñe’ẽme’ẽ. Nde ha ne guardián-kuéra peguerekova’erã responsabilidad léi ha ko Convenio he’iháicha.
+Nde ndaha’éiramo gueteri peteĩ kakuaáva, remoñe’ẽva’erã ko ñe’ẽme’ẽ Guardian ñesãmbyhy rupive, ha eipuru ko página web rehupyty rire nde Guardián omoneĩha ko ñe’ẽme’ẽ. Nde ha ne guardián-kuéra peguerekova’erã responsabilidad léi ha ko Convenio he’iháicha.
 
 Oiméramo nde ha’e pe guardián de usuarios menores, emoñe’ẽ ha eiporavo porãta oĩtapa de acuerdo ko Convenio ndive.
 
@@ -70,6 +70,6 @@ Ko página web oreko derecho omboguejývo contenido ovioláva ko'ã término.
 
 ## Embyaty Marandu .
 
-Oñeme’ẽ hag̃ua servicio, rombyatýta ne marandu personal ha rokomparti peteĩ mbohapýha marandu personal rehegua.
+Oñeme’ẽ hag̃ua servicio, rombyaty ne marandu personal ha rokomparti peteĩ mbohapýha tapicha ndive michĩmi ne marandu tee.
 
-Rome’ẽta ne marandu personal mbohapýhape añoite pe propósito ha alcance oñeikotevẽva ryepýpe, ha ro’evaluáta ha rojesareko porãta umi capacidad de apoyo de seguridad mbohapýha tapicha rehe, rojerure chupekuéra toñemoañetévo léi ha reglamento, acuerdo de cooperación, ha togueraha medida de seguridad pertinente . Eñangareko ne marandu personal rehe .
+Rome’ẽta ne marandu personal mbohapýhape añoite pe propósito ha alcance oñeikotevẽva ryepýpe, ha ro’evaluáta ha rojesareko porãta umi capacidad de apoyo de seguridad mbohapýha tapicha rehe, rojerure chupekuéra toñemoañetévo léi ha reglamento, acuerdo de cooperación, ha togueraha medida de seguridad pertinente . Eñangareko ne marandu personal rehe

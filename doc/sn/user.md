@@ -51,7 +51,7 @@ Iwe unobvuma kuti iyi sevhisi haishandise iyi sevhisi kune chero zvisiri pamutem
    * Kukuvadza kune rukudzo rwenyika uye zvido
    * Kukurudzira kuvenga, rusarura, uye kuparadza kubatana kwenyika
    * Paradza marongero echitendero chenyika uye kusimudzira cells uye feudal mashura
-   * Kuda kweRumors, kukanganisa simba rezvemagariro, uye kuparadza kugadzikana kwenyika
+   * Kuda kweRumors, kukanganisa simba rezvemagariro, uye kuparadza kugadzikana kwenzvimbo
    * Kupfuura kubva kune zvinonyadzisira, zvinonyadzisira, kubhejera, chisimba, kuponda, kutyisa kana kusagadzikana kwemhosva
    * Kutuka kana kuchera vamwe uye kukanganisa kune kodzero dzevamwe dzevamwe
    * Inoreva nhema, hunyengeri, zvinokuvadza, kumanikidza, kukanganisa kwevamwe, kushungurudzwa, kukanganisa, kwepakati, kusanzwisisika, kusaziva, kana kumwe kusafarira tsika

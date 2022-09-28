@@ -1,4 +1,4 @@
-# Meidogger oerienkomst
+# Meidogger Oerienkomst
 
 Sadree't dizze webside registrearre is, wurdt beskôge dat jo hawwe begrepen en it iens binne mei dizze oerienkomst (en de update en modifikaasje fan 'e brûkersoerienskip op dizze webside yn' e takomst).
 
@@ -19,7 +19,7 @@ Jo begripe it dúdlik en iens op basis fan 'e folgjende redenen, ynklusyf, mar n
 1. ferklearring as gedrach makke troch elke tredde partij yn dizze tsjinst
 1. Tredde partijen publisearje of yntsjinje fraude ynformaasje op ien of oare manier, of induzearje brûkers om ekonomyske ferliezen te lijen
 
-## akkountfeiligens
+## Akkountfeiligens
 
 Nei it foltôgjen fan it registraasjeproses fan dizze tsjinst en suksesfol registrearje, beskerming fan akkountfeiligens jo ferantwurdlikens.
 
@@ -68,7 +68,7 @@ Jo binne iens dat dizze tsjinst dizze tsjinst net sil brûke foar elke yllegale 
 
 Dizze webside hat it rjocht om de ynhâld te wiskjen dat dizze betingsten skeelt.
 
-## Berjocht sammelje
+## Berjocht Sammelje
 
 Om tsjinsten te leverjen, sille wy jo persoanlike ynformaasje sammelje en guon fan jo persoanlike ynformaasje diele mei in tredde partij.
 
