@@ -72,4 +72,4 @@ Aka sitio web ukax derecho ukaniwa uka contenido ukar chhaqtayañataki.
 
 Servicios ukanaka churañatakixa, jumana información personal ukanaka apthapipxañani ukatxa mä qawqha yatiyawinakamxa kimsïri jaqimpiwa uñt’ayapxañäni.
 
-Jiwasaxa churañäniwa yatiyawinakxa kimsa jaqiru wakisiri amta ukhamaraki mä amtawimpi, ukhamaraki wali suma uñakipaña ukhamaraki uñjaña capacidades de apoyo a la seguridad ukaxa kimsa jaqina, mayiñawa kamachinakaru ukhamaraki kamachinakaru phuqañataki, acuerdos de cooperación, ukhamaraki wakisiri medidas de seguridad uka lurañataki . Arxatañamawa Información Personal esencia .
+Jiwasaxa churañäniwa yatiyawinakxa kimsa jaqiru wakisiri amta ukhamaraki mä amtawimpi, ukhamaraki wali suma uñakipaña ukhamaraki uñjaña capacidades de apoyo a la seguridad ukaxa kimsa jaqina, mayiñawa kamachinakaru ukhamaraki kamachinakaru phuqañataki, acuerdos de cooperación, ukhamaraki wakisiri medidas de seguridad uka lurañataki . Arxatañamawa Información Personal esencia

@@ -68,7 +68,7 @@ U stem saam dat hierdie diens nie hierdie diens vir onwettige of onbehoorlike ak
 
 Hierdie webwerf het die reg om die inhoud wat hierdie voorwaardes oortree, te verwyder.
 
-## Versamel Boodskap
+## Versamel boodskap
 
 Om dienste te lewer, sal ons u persoonlike inligting insamel en sommige van u persoonlike inligting met 'n derde party deel.
 

@@ -72,4 +72,4 @@ Weebsaayitiin kun qabiyyee jechoota kana cabsu haquuf mirga qaba.
 
 Tajaajila kennuudhaaf odeeffannoo dhuunfaa keessan walitti qabnee odeeffannoo dhuunfaa keessan tokko tokko qaama sadaffaaf ni qoodna.
 
-Odeeffannoo dhuunfaa kee kaayyoo fi bal’ina barbaachisaa ta’e keessatti qaama sadaffaaf qofa ni kennina, dandeettii deeggarsa nageenyaa qaama sadaffaa of eeggannoodhaan ni madaalle, seeraa fi dambiiwwan, waliigalteewwan tumsaa, fi tarkaanfiiwwan nageenyaa barbaachisoo ta’an akka fudhatan ni gaafanna. Odeeffannoo Dhuunfaa Keessan Eegaa .
+Odeeffannoo dhuunfaa kee kaayyoo fi bal’ina barbaachisaa ta’e keessatti qaama sadaffaaf qofa ni kennina, dandeettii deeggarsa nageenyaa qaama sadaffaa of eeggannoodhaan ni madaalle, seeraa fi dambiiwwan, waliigalteewwan tumsaa, fi tarkaanfiiwwan nageenyaa barbaachisoo ta’an akka fudhatan ni gaafanna. Odeeffannoo Dhuunfaa Keessan Eegaa

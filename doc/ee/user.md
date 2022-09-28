@@ -72,4 +72,4 @@ Gome le nyatakakadzraɖoƒe sia si be wòatutu nyatakaka siwo da le se siawo dzi
 
 Be míate ŋu ana dɔwo la, míaƒo wò nyatakakawo nu ƒu eye míagblɔ wò nyatakaka aɖewo na ame bubu aɖe.
 
-Míatsɔ wò nyatakakawo ana ame etɔ̃lia le taɖodzinu si hiã kple afisi wòakeke ɖo me ko, eye míada ame etɔ̃lia ƒe dedienɔnɔ ƒe kpekpeɖeŋu ƒe ŋutetewo akpɔ nyuie ahalé ŋku ɖe wo ŋu, abia tso wo si be woawɔ ɖe sewo kple ɖoɖowo dzi, awɔ nu aduadu kple wo nɔewo, eye woawɔ dedienɔnɔ ŋuti ɖoɖo siwo sɔ na . Kpɔ wò nyatakakawo ta Essence .
+Míatsɔ wò nyatakakawo ana ame etɔ̃lia le taɖodzinu si hiã kple afisi wòakeke ɖo me ko, eye míada ame etɔ̃lia ƒe dedienɔnɔ ƒe kpekpeɖeŋu ƒe ŋutetewo akpɔ nyuie ahalé ŋku ɖe wo ŋu, abia tso wo si be woawɔ ɖe sewo kple ɖoɖowo dzi, awɔ nu aduadu kple wo nɔewo, eye woawɔ dedienɔnɔ ŋuti ɖoɖo siwo sɔ na . Kpɔ wò nyatakakawo ta Essence
