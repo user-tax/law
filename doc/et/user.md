@@ -10,7 +10,7 @@ Kui te pole veel täiskasvanu, peaksite seda lepingut Guardiani juhendamisel lug
 
 Kui olete alaealiste kasutajate eestkostja, lugege ja valige hoolikalt, kas nõustuda käesoleva lepinguga.
 
-## Kohustustest loobumine
+## Kohustustest Loobumine
 
 Saate selgelt aru ja nõustute, et tuginedes järgmistele põhjustele, sealhulgas, kuid mitte ainult, majanduse, maine, andmete kaotuse või muude nähtamatute kahjumite põhjal, ei kanna see veebisait otsest, kaudset, lisatud, tuletisinstrumenti ega karistavat vastutust hüvitise eest:
 
@@ -19,13 +19,13 @@ Saate selgelt aru ja nõustute, et tuginedes järgmistele põhjustele, sealhulga
 1. Kolmanda osapoole avaldus või käitumine selles teenuses
 1. Kolmandad osapooled avaldavad või esitavad pettusteavet mis tahes viisil või ajendavad kasutajaid majanduslike kahjude kannatama
 
-## Konto turvalisus
+## Konto Turvalisus
 
 Pärast selle teenuse registreerimisprotsessi läbimist ja edukat registreerimist on teie vastutus konto turvalisuse kaitsmine.
 
 Peaksite vastutama kogu oma konto käitumise eest.
 
-## Teenuse muutmine
+## Teenuse Muutmine
 
 See veebisait võib muuta teenuse sisu või selle võib katkestada ja lõpetada.
 
@@ -68,7 +68,7 @@ Nõustute, et see teenus ei kasuta seda teenust ebaseadusliku või ebaõige tege
 
 Sellel veebisaidil on õigus kustutada sisu, mis neid tingimusi rikub.
 
-## Koguge teade
+## Koguge Teade
 
 Teenuste osutamiseks kogume teie isiklikku teavet ja jagame osa teie isikuandmeid kolmanda osapoolega.
 

@@ -1,4 +1,4 @@
-# Zãla ƒe Nubabla .
+# Zãla Ƒe Nubabla .
 
 Ne wonya de nyatakakadzraɖoƒe sia agbalẽ me ko la, wobunɛ be èse Nubabla sia gɔme eye nèlɔ̃ ɖe edzi bliboe (kple nyatakakadzraɖoƒe sia zazã ƒe nubabla la ƒe yeyewɔwɔ kple tɔtrɔ le etsɔme).
 
@@ -19,13 +19,13 @@ Ne wòe nye zãla suewo dzikpɔla la, taflatse xlẽe eye nàtiae nyuie be yeal�
 1. Nyagbɔgblɔ alo nuwɔna si ame etɔ̃lia aɖe wɔ le subɔsubɔdɔ sia me .
 1. Ame bubuwo ata ametafatafa ŋuti nyatakakawo alo aɖo wo ɖe wo le mɔ aɖe nu, alo ana ezãlawo nakpe fu le ganyawo gome .
 
-## Akɔntabubu ƒe Dedienɔnɔ .
+## Akɔntabubu Ƒe Dedienɔnɔ .
 
 Ne èwu dɔ sia ƒe ŋkɔ dede agbalẽ me ƒe ɖoɖoa nu eye nèŋlɔ ŋkɔ dzidzedzetɔe vɔ la, akɔntabubu ƒe dedienɔnɔ ta kpɔkpɔ nye wò agbanɔamedzi.
 
 Ele be nàtsɔ wò akɔntabubu ƒe nuwɔnawo katã ƒe agbanɔamedzi.
 
-## Subɔsubɔdɔ ƒe Tɔtrɔ .
+## Subɔsubɔdɔ Ƒe Tɔtrɔ .
 
 Nyatakakadzraɖoƒe sia ate ŋu atrɔ Subɔsubɔdɔa me nyawo, alo woate ŋu atso eme ahawu enu.
 
@@ -35,7 +35,7 @@ Woado nyatakakadzraɖoƒe sia ɖe ŋgɔ ahalé be nɛ tso ɣeyiɣi yi ɣeyiɣi, 
 
 Gome le nyatakakadzraɖoƒe sia si be wòatɔ te Subɔsubɔdɔa alo adzudzɔ dɔwɔwɔ na wò ɣesiaɣi, atutu wò akɔnta kple nyatakakawo ɖa evɔ mahiã be nàtsɔ wò alo ame bubu aɖeke ƒe agbanɔamedzi o.
 
-## Zãla ƒe nuwɔna .
+## Zãla Ƒe Nuwɔna .
 
 Ne wò nuwɔna da le dukɔa ƒe sewo dzi la, àtsɔ se ƒe agbanɔamedziwo katã le se nu;
 
@@ -68,7 +68,7 @@ Ne nyatakakadzraɖoƒe sia bu wò nuwɔna ƒe nuwɔna aɖe ŋu, eda le dukɔa ƒ
 
 Gome le nyatakakadzraɖoƒe sia si be wòatutu nyatakaka siwo da le se siawo dzi la ɖa.
 
-## Ƒo gbedasi nu ƒu .
+## Ƒo Gbedasi Nu Ƒu .
 
 Be míate ŋu ana dɔwo la, míaƒo wò nyatakakawo nu ƒu eye míagblɔ wò nyatakaka aɖewo na ame bubu aɖe.
 

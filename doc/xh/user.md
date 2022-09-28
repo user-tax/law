@@ -4,7 +4,7 @@ Nje ukuba le webhusayithi ibhaliswe, ithathwa ukuba ukuqondakaluqonda nangokugcu
 
 Imigaqo yesi siVumelwano inokutshintshwa yile webhusayithi ngalo naliphi na ixesha. Isivumelwano esilungisiweyo sithathelwe indawo sisivumelwano sokuqala.
 
-Ukuba awuvumelani nesi siVumelwano, yeka usebenzisa le webhusayithi ngokukhawuleza.
+Ukuba awuvumelani nesi siVumelwano, yeka usebenzisa le webhusayithi kwangoko.
 
 Ukuba awukho umntu omdala, kufuneka ufunde esi sivumelwano phantsi kwesikhokelo somgcini, kwaye usebenzise le webhusayithi emva kokufumana imvume yakho yogada yesi sivumelwano. Wena nabagcini bakho niya kuthwala imbopheleleko ngokomthetho kunye nesi sivumelwano.
 

@@ -72,4 +72,4 @@ Dis wɛbsayt gɛt di rayt fɔ dilit di tin dɛn we de agens dɛn Tɛm dɛn ya.
 
 Fɔ mek wi ebul fɔ gi savis, wi go gɛda yu pɔsin in infɔmeshɔn ɛn sheb sɔm pan yu pɔsin in infɔmeshɔn wit ɔda pɔsin.
 
-Wi go jɔs gi yu pɔsin in infɔmeshɔn to di tɔd pɔsin insay di rizin we nid ɛn di say we dɛn fɔ gi am, ɛn tek tɛm luk ɛn wach di sikyɔriti sɔpɔt we di tɔd pɔsin gɛt, aks dɛn fɔ fala di lɔ ɛn rigyuleshɔn dɛn, di agrimɛnt dɛn we dɛn mek fɔ di wok we dɛn de du togɛda, ɛn tek di rilevɛns sikyɔriti mɛsej dɛn fɔ mek dɛn gɛt di sikyɔriti. Protɛkt yu Pɔsin In Infɔmeshɔn Ɛsɛns .
+Wi go jɔs gi yu pɔsin in infɔmeshɔn to di tɔd pɔsin insay di rizin we nid ɛn di say we dɛn fɔ gi am, ɛn tek tɛm luk ɛn wach di sikyɔriti sɔpɔt we di tɔd pɔsin gɛt, aks dɛn fɔ fala di lɔ ɛn rigyuleshɔn dɛn, di agrimɛnt dɛn we dɛn mek fɔ di wok we dɛn de du togɛda, ɛn tek di rilevɛns sikyɔriti mɛsej dɛn fɔ mek dɛn gɛt di sikyɔriti. Protɛkt yu Pɔsin In Infɔmeshɔn Ɛsɛns

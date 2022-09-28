@@ -1,4 +1,4 @@
-# Usuario Acuerdo ukax 1.1.
+# Usuario Acuerdo Ukax 1.1.
 
 Mä kutix aka sitio web ukax qillqantatäxi ukhax amuyatawa, jumax amuyawaytawa ukat taqpach acuerdo aka Convenio ukampi (ukatx actualización ukat modificación de Convenio de Usuario ukax aka sitio web jutïrinx).
 
@@ -10,7 +10,7 @@ Janitï jilïr jaqïksta ukhaxa, aka Acuerdo Guardian ukan irnaqataparjamaw aka 
 
 Jumatix jisk’a apnaqirinakan guardián ukhamästa ukhaxa, aka Convenio ukar iyaw sañax wakisispati janicha uk uñakipt’añamawa ukat wali amuyumpiw ajlliñama.
 
-## jan walinak luraña .
+## Jan Walinak Luraña .
 
 Jumax qhan amuyasma ukat iyaw sasmawa, aka razonanakarjamaxa, ukampirus janiw ukakipkakiti, ukampis janiw economía, reputación, datos pérdida jan ukax yaqha jan uñjkañ pist’awinakampikix utjkiti, aka sitio web ukax janiw kuna directo, indirecto, adjunto, derivado jan ukax punitivo responsabilidad ukanak compensación ukatakix apaskiti:
 
@@ -19,13 +19,13 @@ Jumax qhan amuyasma ukat iyaw sasmawa, aka razonanakarjamaxa, ukampirus janiw uk
 1. Aka servicio ukanxa kuna kimsïri jaqina arsutapa jani ukaxa sarnaqawipa .
 1. Kimsïr jaqinakax kunayman tuqit k’arisiñanak yatiyawinak uñt’ayaña jan ukax uñt’ayaña, jan ukax apnaqirinakarux qullqi tuqit jan walt’awinak t’aqhisiyañatak ch’amanchaña .
 
-## Cuenta Seguridad ukax 1.1.
+## Cuenta Seguridad Ukax 1.1.
 
 Aka servicio ukana qillqantayawi phuqhawipa tukuyasaxa ukhamaraki suma qillqantaña tukuyatatxa, seguridad de cuentas ukanaka arxataña ukaxa jumana lurawiwa.
 
 Taqi cuentan sarnaqawipatx juchanïñamawa.
 
-## Servicio mayjt'ayaña .
+## Servicio Mayjt'ayaña .
 
 Aka sitio web ukax contenido de servicio ukaruw mayjt’ayaspa, jan ukax jark’ataspawa ukat chhaqtayatarakispawa.
 
@@ -35,7 +35,7 @@ Aka sitio web ukax machaqar tukuyatäni ukat pachat pacharuw uñjatäni, ukax se
 
 Aka Sitio Web ukaxa derecho ukaniwa servicio ukaxa kuna pachatixa jumaru jark’aqañataki jan ukaxa tukjañataki, cuenta ukatxa contenido ukanaka chhaqtayañataki jani jumaru jani ukaxa kimsïri jaqinakaru responsabilidad ukampi.
 
-## apnaqirin sarnaqawipa .
+## Apnaqirin Sarnaqawipa .
 
 Uka sarnaqawimaxa kamachinakarjamawa jani phuqhaschi ukhaxa, taqi responsabilidades legales ukanakawa kamachirjamaxa, aka sitio web ukaxa kamachinaka taypina qhananchata obligaciones ukanakampi ukhamaraki órganos judiciales ukanakana mayiwinakaparu phuqhañapawa.
 
@@ -68,7 +68,7 @@ Jumax iyawstawa aka servicio ukax janiw aka servicio ukax kuna jan wali lurawina
 
 Aka sitio web ukax derecho ukaniwa uka contenido ukar chhaqtayañataki.
 
-## Yatiyäwinak apthapiñ .
+## Yatiyäwinak Apthapiñ .
 
 Servicios ukanaka churañatakixa, jumana información personal ukanaka apthapipxañani ukatxa mä qawqha yatiyawinakamxa kimsïri jaqimpiwa uñt’ayapxañäni.
 

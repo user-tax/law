@@ -72,4 +72,4 @@ Site oyo ezali na lotomo ya kolongola makambo oyo ezali kobuka mibeko yango.
 
 Mpo na kopesa misala, tokozwa makambo na yo mpe tokokabola mwa makambo na yo na moto mosusu.
 
-Tokopesa kaka makambo na yo na moto ya misato na ntina mpe na bonene oyo esengeli, mpe totalaka malamumalamu mpe tolandaka makoki ya lisungi ya bokengi ya moto ya misato, tosengi bango kotosa mibeko mpe malako, boyokani ya boyokani, mpe kozwa mikano ya bokengi oyo etali yango mpo na kozwa yango na . Batela ba informations na yo essence .
+Tokopesa kaka makambo na yo na moto ya misato na ntina mpe na bonene oyo esengeli, mpe totalaka malamumalamu mpe tolandaka makoki ya lisungi ya bokengi ya moto ya misato, tosengi bango kotosa mibeko mpe malako, boyokani ya boyokani, mpe kozwa mikano ya bokengi oyo etali yango mpo na kozwa yango na . Batela ba informations na yo essence

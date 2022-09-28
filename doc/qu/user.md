@@ -6,7 +6,7 @@ Kay Rimanakuypa kamachiyninkunaqa kay web kitiwan mayk'aqllapas tikrasqa kanman.
 
 Sichus mana kay Rimanakuywan acuerdopichu kanki, kay web kitita chaylla llamk'achiyta saqiy.
 
-Sichus manaraq kuraqchu kanki, kay Conveniota ñawirinayki tiyan kay Guardian kaqpa pusayninwan, chaymanta kay web kitita llamk'achiy kay Convenio kaqmanta guardianniykipa consentimientonta jap'iymanta qhipaman. Qam chaymanta Guardiansniykikuna kamachiymanhina chaymanta kay Convenio kaqmanhina responsabilidadta qunkichik.
+Sichus manaraq kuraqchu kanki, kay Conveniota ñawirinayki tiyan kay Guardian kaqpa pusayninwan, chaymanta kay web kitita llamk'achiy kay Conveniomanta guardianniykipa consentimientonta jap'iymanta qhipaman. Qam chaymanta Guardiansniykikuna kamachiymanhina chaymanta kay Convenio kaqmanhina responsabilidadta qunkichik.
 
 Sichus huch'uy llamk'aqkunap guardiánnin kanki, ama hina kaspa ñawiriy chaymanta allinta akllay kay rimanakuywan acuerdopi kanaykipaq.
 
@@ -72,4 +72,4 @@ Kay web kitiqa derechoyuqmi kay Términos nisqakunata mana kasukuq contenidota c
 
 Yanapakuykunata qunapaq, sapalla willayniyki huñusaqku chaymanta wakin sapalla willayniyki kimsa kaq runawan qunakuyku.
 
-Sapanchasqa willakuyniykimanta kimsa kaqman qusqaykulla kay necesario propósito chaymanta alcance ukhupi, chaymanta allinta chaninchay chaymanta qhawayku chaymanta qhawayku chaymanta qhawayku chaymanta qhawayku chaymanta qhawayku kay kimsa kaq runap yanapakuy atiyninta, kamachiykuna chaymanta kamachiykunata hunt'anankupaq, yanapakuymanta rimanakuykunata chaymanta ruwaypaq kamachiykunata hunt'anankupaq. Proteger tu información personal esencia .
+Sapanchasqa willakuyniykimanta kimsa kaqman qusqaykulla kay necesario propósito chaymanta alcance ukhupi, chaymanta allinta chaninchay chaymanta qhawayku chaymanta qhawayku chaymanta qhawayku chaymanta qhawayku chaymanta qhawayku kay kimsa kaq runap yanapakuy atiyninta, kamachiykuna chaymanta kamachiykunata hunt'anankupaq, yanapakuymanta rimanakuykunata chaymanta ruwaypaq kamachiykunata hunt'anankupaq. Proteger tu información personal esencia

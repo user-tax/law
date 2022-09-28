@@ -35,7 +35,7 @@ Weebsaayitiin kun yeroo yeroon fooyya’ee kan kunuunfamu yoo ta’u, kunis taja
 
 Weebsaayitiin kun yeroo barbaaddetti tajaajilicha addaan kutuuf ykn addaan kutuuf mirga qaba, itti gaafatamummaa siif ykn qaama sadaffaa kamiif iyyuu fudhachuu osoo hin barbaachisin herregaa fi qabiyyee kee haqi.
 
-## amala fayyadamaa .
+## Amala Fayyadamaa .
 
 Amalli kee seera biyyaalessaa yoo cabse, itti gaafatamummaa seeraa hunda akkaataa seeraatiin ni qabaatta;Weebsaayitiin kun dirqama seera keessatti tumamee fi ulaagaalee qaamolee abbaa seerummaatiin tumameen ni tumsa.
 
@@ -68,7 +68,7 @@ Tajaajilli kun hojiiwwan seeraan alaa ykn sirrii hin taane kamiif iyyuu akka hin
 
 Weebsaayitiin kun qabiyyee jechoota kana cabsu haquuf mirga qaba.
 
-## Ergaa walitti qabuu .
+## Ergaa Walitti Qabuu .
 
 Tajaajila kennuudhaaf odeeffannoo dhuunfaa keessan walitti qabnee odeeffannoo dhuunfaa keessan tokko tokko qaama sadaffaaf ni qoodna.
 

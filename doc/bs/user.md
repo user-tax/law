@@ -1,4 +1,4 @@
-# Korisnički ugovor
+# Korisnički Ugovor
 
 Nakon što se ova web stranica registrira, smatra se da ste shvatili i u potpunosti pristali s ovim Ugovorom (i ažuriranjem i izmjenom korisničkog ugovora na ovoj web stranici) u budućnosti).
 
@@ -10,7 +10,7 @@ Ako još niste odrasla osoba, trebali biste pročitati ovaj ugovor prema uputama
 
 Ako ste čuvar manjih korisnika, pročitajte i pažljivo izaberite da li se slažete sa ovim sporazumom.
 
-## Izjava o odricanju odgovornosti
+## Izjava O Odricanju Odgovornosti
 
 Jasno razumijevate i slažete se da se na osnovu sljedećih razloga, uključujući, ali ne ograničavajući na ekonomiju, ugled, gubitak podataka ili druge nevidljive gubitke, ova web stranica ne podnese nijednu izravnu, indirektnu, priloženu, derivatnu ili kaznenu odgovornost za naknadu:
 
@@ -19,13 +19,13 @@ Jasno razumijevate i slažete se da se na osnovu sljedećih razloga, uključuju�
 1. Izjava ili ponašanje bilo koje treće strane u ovoj usluzi
 1. Treće strane na bilo koji način objavljuju ili predaju informacije o prijenosu ili pointiraju korisnike da trpeju ekonomske gubitke
 
-## Sigurnost računa
+## Sigurnost Računa
 
 Nakon završetka procesa registracije ove usluge i uspješno registriranje, zaštita računa za račun je vaša odgovornost.
 
 Trebali biste biti odgovorni za cijelo ponašanje vašeg računa.
 
-## Promjena usluge
+## Promjena Usluge
 
 Ova web stranica može promijeniti sadržaj usluge ili se može prekinuti i prekinuti.
 
@@ -35,7 +35,7 @@ Ova web stranica će se nadograditi i održavati s vremena na vrijeme, što će 
 
 Ova web stranica ima pravo prekida ili prekinuti uslugu u bilo kojem trenutku, izbrisati svoj račun i sadržaj, a da ne morate preuzeti odgovornost za vas ili bilo koju treću osobu.
 
-## ponašanje korisnika
+## Ponašanje Korisnika
 
 Ako vaše ponašanje krši nacionalne zakone, snosit ćete sve pravne odgovornosti u skladu sa zakonom; ova web stranica će surađivati ​​u strogom skladu s obvezama predviđenim zakonom i zahtjevima pravosudnih organa.
 
@@ -68,7 +68,7 @@ Slažete se da ova usluga neće koristiti ovu uslugu za sve ilegalne ili nepravi
 
 Ova web stranica ima pravo izbrisanja sadržaja koji krši ove uvjete.
 
-## Prikupljanje poruke
+## Prikupljanje Poruke
 
 Da bismo pružili usluge, prikupit ćemo vaše lične podatke i dijeliti neke od vaših ličnih podataka trećom stranom.
 

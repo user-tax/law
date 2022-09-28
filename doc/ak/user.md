@@ -6,7 +6,7 @@ Apam yi mu nsɛm no, wɛbsaet yi betumi asesa bere biara.Wɔde Apam a Wɔasesa n
 
 Sɛ wo ne saa apam yi nyɛ adwene a, gyae wɛbsaet yi a wode bedi dwuma no ntɛm ara.
 
-Sɛ wo nnya nyɛɛ ɔpanyin a, ɛsɛ sɛ wokenkan saa apam yi wɔ The Guardian akwankyerɛ ase, na wode wɛbsaet yi di dwuma bere a woanya wo Guardian no pene so wɔ Apam yi mu akyi. Wo ne wo hwɛfoɔ bɛsoa asɛdeɛ sɛdeɛ Mmara ne Apam yi teɛ.
+Sɛ wo nnya nyɛɛ ɔpanyin a, ɛsɛ sɛ wokenkan saa apam yi wɔ Guardian akwankyerɛ ase, na wode wɛbsaet yi di dwuma bere a woanya wo Guardian no pene so wɔ Apam yi mu akyi. Wo ne wo hwɛfoɔ bɛsoa asɛdeɛ sɛdeɛ Mmara ne Apam yi teɛ.
 
 Sɛ woyɛ nnipa nketenkete a wɔde di dwuma no hwɛfo a, yɛsrɛ wo kenkan na paw no yiye sɛ wobɛpene Apam yi so anaa.
 
@@ -72,4 +72,4 @@ Wɛbsaet yi wɔ hokwan sɛ ɛpopa nsɛm a ebu saa Mmara yi so no.
 
 Sɛnea ɛbɛyɛ a yɛde nnwuma bɛma no, yɛbɛboaboa wo ho nsɛm ano na yɛakyekyɛ wo ho nsɛm bi akyerɛ obi foforo.
 
-Yɛde wo ho nsɛm bɛma obi a ɔto so abiɛsa no nkutoo wɔ atirimpɔw ne nea ɛho hia no mu, na yɛde ahwɛyiye asusuw ho na yɛahwɛ ahobammɔ mmoa tumi a ɛwɔ obi a ɔto so abiɛsa no mu, abisa wɔn sɛ wonni mmara ne nhyehyɛe ahorow so, biakoyɛ ho apam ahorow so, na wɔayɛ ahobammɔ ho nhyehyɛe a ɛfata sɛ . Bɔ wo ho nsɛm ho ban Essence .
+Yɛde wo ho nsɛm bɛma obi a ɔto so abiɛsa no nkutoo wɔ atirimpɔw ne nea ɛho hia no mu, na yɛde ahwɛyiye asusuw ho na yɛahwɛ ahobammɔ mmoa tumi a ɛwɔ obi a ɔto so abiɛsa no mu, abisa wɔn sɛ wonni mmara ne nhyehyɛe ahorow so, biakoyɛ ho apam ahorow so, na wɔayɛ ahobammɔ ho nhyehyɛe a ɛfata sɛ . Bɔ wo ho nsɛm ho ban Essence

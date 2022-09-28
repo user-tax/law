@@ -6,7 +6,7 @@ Mimpimanyeto ya Ntwanano lowu yi nga cinciwa hi webusayiti leyi nkarhi wihi na w
 
 Loko u nga pfumelelani na ntwanano lowu, tshika ku tirhisa webusayiti leyi hi ku hatlisa.
 
-Loko u nga si va munhu lonkulu, u fanele ku hlaya ntwanano lowu ehansi ka nkongomiso wa Guardian, naswona u tirhisa webusayiti leyi endzhaku ko kuma mpfumelelo wa muhlayisi wa wena wa Ntwanano lowu. Wena na vahlayisi va wena mi ta va na vutihlamuleri hi ku landza nawu na Ntwanano lowu.
+Loko u nga si va munhu lonkulu, u fanele ku hlaya ntwanano lowu ehansi ka nkongomiso wa The Guardian, naswona u tirhisa webusayiti leyi endzhaku ko kuma mpfumelelo wa muhlayisi wa wena wa Ntwanano lowu. Wena na vahlayisi va wena mi ta va na vutihlamuleri hi ku landza nawu na Ntwanano lowu.
 
 Loko u ri muhlayisi wa vatirhisi lavatsongo, hi kombela u hlaya naswona u hlawula hi vukheta loko u ta pfumelelana ni ntwanano lowu.
 
@@ -72,4 +72,4 @@ Website leyi yi ni mfanelo yo susa swilo leswi tlulaka milawu leyi.
 
 Leswaku hi kota ku nyika vukorhokeri, hi ta hlengeleta vuxokoxoko bya wena bya munhu hi xiyexe na ku avelana vuxokoxoko byin’wana bya wena bya munhu hi xiyexe na munhu wa vunharhu.
 
-Hi ta nyika ntsena vuxokoxoko bya wena bya munhu hi xiyexe eka munhu wa vunharhu hi xikongomelo lexi lavekaka na mpimo, na ku kambisisa hi vukheta na ku langutisisa vuswikoti bya nseketelo wa vuhlayiseki bya munhu wa vunharhu, hi va kombela ku landzelela milawu na swiletelo, mintwanano ya ntirhisano, na ku teka magoza ya vuhlayiseki lama faneleke ku . Sirhelela vuxokoxoko bya wena bya munhu hi xiyexe essence .
+Hi ta nyika ntsena vuxokoxoko bya wena bya munhu hi xiyexe eka munhu wa vunharhu hi xikongomelo lexi lavekaka na mpimo, na ku kambisisa hi vukheta na ku langutisisa vuswikoti bya nseketelo wa vuhlayiseki bya munhu wa vunharhu, hi va kombela ku landzelela milawu na swiletelo, mintwanano ya ntirhisano, na ku teka magoza ya vuhlayiseki lama faneleke ku . Sirhelela vuxokoxoko bya wena bya munhu hi xiyexe essence

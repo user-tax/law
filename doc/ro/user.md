@@ -6,7 +6,7 @@ Termenii prezentului acord pot fi modificați în orice moment. Acordul modifica
 
 Dacă nu sunteți de acord cu acest acord, opriți -vă imediat acest site web.
 
-Dacă nu sunteți încă adult, ar trebui să citiți acest acord sub îndrumarea The Guardian și să utilizați acest site web după ce ați obținut consimțământul de către tutore pentru prezentul acord. Tu și tutorii tăi trebuie să suporti responsabilitatea în conformitate cu legea și cu acest acord.
+Dacă nu sunteți încă un adult, ar trebui să citiți acest acord sub îndrumarea The Guardian și să utilizați acest site web după ce ați obținut acordul de către tutore pentru prezentul acord. Tu și tutorii tăi trebuie să suporti responsabilitatea în conformitate cu legea și cu acest acord.
 
 Dacă sunteți tutorele utilizatorilor minori, vă rugăm să citiți și să alegeți cu atenție dacă sunteți de acord cu prezentul acord.
 

@@ -1,4 +1,4 @@
-# Accord de l'utilisateur
+# Accord De L'utilisateur
 
 Une fois ce site Web enregistré, il est considéré que vous avez compris et entièrement d'accord avec le présent accord (et la mise à jour et la modification de l'accord d'utilisateur sur ce site Web à l'avenir).
 
@@ -10,7 +10,7 @@ Si vous n'êtes pas encore adulte, vous devez lire cet accord sous la direction 
 
 Si vous êtes le gardien des utilisateurs mineurs, veuillez lire et choisir soigneusement si vous êtes d'accord avec cet accord.
 
-## Clause de non-responsabilité
+## Clause De Non-responsabilité
 
 Vous comprenez et acceptez clairement que sur la base des raisons suivantes, y compris, mais sans s'y limiter, l'économie, la réputation, la perte de données ou d'autres pertes invisibles, ce site Web n'a pas de responsabilité directe, indirecte, jointe, dérivée ou punitive pour la rémunération:
 
@@ -19,13 +19,13 @@ Vous comprenez et acceptez clairement que sur la base des raisons suivantes, y c
 1. Déclaration ou comportement fait par un tiers de ce service
 1. Les tiers publient ou soumettent des informations sur la fraude de quelque manière que ce soit, ou inciter les utilisateurs à subir des pertes économiques
 
-## Sécurité du compte
+## Sécurité Du Compte
 
 Après avoir terminé le processus d'enregistrement de ce service et réussi à s'inscrire, la protection de la sécurité du compte est votre responsabilité.
 
 Vous devez être responsable de tout le comportement de votre compte.
 
-## Changement de service
+## Changement De Service
 
 Ce site Web peut modifier le contenu du service, ou il peut être interrompu et résilié.
 
@@ -35,7 +35,7 @@ Ce site Web sera mis à niveau et maintenu de temps à autre, ce qui fera l'inte
 
 Ce site Web a le droit de vous interrompre ou de résilier le service à tout moment, de supprimer votre compte et votre contenu sans avoir à assumer la responsabilité de vous ou d'un tiers.
 
-## Comportement de l'utilisateur
+## Comportement De L'utilisateur
 
 Si votre comportement viole les lois nationales, vous assurez toutes les responsabilités juridiques conformément à la loi; ce site Web coopérera en stricte avec les obligations stipulées dans la loi et les exigences des organes judiciaires.
 
@@ -68,7 +68,7 @@ Vous acceptez que ce service n'utilisera pas ce service pour des activités ill�
 
 Ce site Web a le droit de supprimer le contenu qui viole ces termes.
 
-## Collectez le message
+## Collectez Le Message
 
 Afin de fournir des services, nous collecterons vos informations personnelles et partagerons certaines de vos informations personnelles avec un tiers.
 

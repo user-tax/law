@@ -6,7 +6,7 @@ La terminoj de ĉi tiu interkonsento povas esti modifitaj de ĉi tiu Retejo en a
 
 Se vi ne konsentas pri ĉi tiu Interkonsento, ĉesu uzi ĉi tiun retejon tuj.
 
-Se vi ankoraŭ ne estas plenkreskulo, vi devus legi ĉi tiun Interkonsenton sub la gvido de la Gardisto kaj uzi ĉi tiun retejon post akirado de la konsento de via Gardisto pri ĉi tiu Interkonsento. Vi kaj viaj gardistoj respondecos konforme al la leĝo kaj ĉi tiu Interkonsento.
+Se vi ankoraŭ ne estas plenkreskulo, vi devus legi ĉi tiun interkonsenton sub la gvido de la Gardisto kaj uzi ĉi tiun retejon post akirado de la konsento de via Gardisto pri ĉi tiu Interkonsento. Vi kaj viaj gardistoj respondecos konforme al la leĝo kaj ĉi tiu Interkonsento.
 
 Se vi estas la gardisto de negravaj uzantoj, bonvolu legi kaj zorge elektu ĉu konsenti kun ĉi tiu Interkonsento.
 

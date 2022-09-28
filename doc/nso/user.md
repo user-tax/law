@@ -72,4 +72,4 @@ Webosaete ye e na le tokelo ya go phumola diteng tšeo di gatakelago melawana ye
 
 Gore re kgone go fana ka ditirelo, re tla kgoboketša tshedimošo ya gago ya motho ka noši le go abelana tše dingwe tša tshedimošo ya gago ya motho ka noši le motho wa boraro.
 
-Re tla fa fela tshedimošo ya gago ya motho ka noši go motho wa boraro ka gare ga morero le bogolo bjo bo nyakegago, gomme ra sekaseka le go hlokomela bokgoni bja thekgo ya tšhireletšo bja motho wa boraro, go ba kgopela go obamela melao le melawana, ditumellano tša tirišano, le go tšea magato a maleba a tšhireletšo go . Šireletša tshedimošo ya gago ya motho ka noši ya motheo .
+Re tla fa fela tshedimošo ya gago ya motho ka noši go motho wa boraro ka gare ga morero le bogolo bjo bo nyakegago, gomme ra sekaseka le go hlokomela bokgoni bja thekgo ya tšhireletšo bja motho wa boraro, go ba kgopela go obamela melao le melawana, ditumellano tša tirišano, le go tšea magato a maleba a tšhireletšo go . Šireletša tshedimošo ya gago ya motho ka noši ya motheo

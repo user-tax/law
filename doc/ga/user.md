@@ -10,7 +10,7 @@ Mura bhfuil tú fós ina dhuine fásta, ba chóir duit an comhaontú seo a léam
 
 Más tusa caomhnóir na n -úsáideoirí beaga, léigh agus roghnaigh go cúramach an aontaíonn tú leis an gcomhaontú seo.
 
-## séanadh
+## Séanadh
 
 Tuigeann tú go soiléir agus aontaíonn tú, bunaithe ar na cúiseanna seo a leanas, lena n -áirítear, ach gan a bheith teoranta don gheilleagar, do cháil, do chaillteanas sonraí nó do chaillteanais dofheicthe eile, nach bhfuil aon dliteanas díreach, indíreach, ceangailte, díorthach nó pionósach le haghaidh cúitimh ag an láithreán gréasáin seo:
 
